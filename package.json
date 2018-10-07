@@ -14,7 +14,7 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "autoprefixer": "^7.2.3",
-    "browser-sync": "~2.24.5",
+    "browser-sync": "~2.26.0",
     "browser-sync-webpack-plugin": "^1.2.0",
     "buble": "^0.18.0",
     "buble-loader": "^0.4.1",
